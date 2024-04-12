@@ -6,4 +6,11 @@ ECHO MAIS OUTRA MENSAGEM
 ECHO ======================
 ECHO MODIFICAÇÃO FEITA PELA BRANCH DEVELOP
 ECHO ======================
+ECHO 
+ECHO ======================
+ECHO MODIFICÃCAO FEITA PELA BRANCH DEVELOP
+ECHO ======================
+ECHO 
+ECHO ORIGEM DO CONFLITO 
+ECHO 
 PAUSE
